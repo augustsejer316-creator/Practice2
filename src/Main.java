@@ -201,6 +201,11 @@ System.out.println(namePizzaslice);
 
 
 
-
-
+        int days = 2;
+        int hoursInDay=24;
+        int daysInhHours = days*hoursInDay;
+System.out.println(daysInhHours);
+    days=8;
+    daysInhHours=days*hoursInDay;
+    System.out.println(daysInhHours);
     }
