@@ -172,7 +172,7 @@ System.out.println(teamOne);
 int number = 17;
 int remainder = number % 2;
 
-System.out.println(remainder==0);
+System.out.println(false);
 System.out.println(remainder);
 
 String namePizzaslice = "Amout of Pizzaslice pr. box.";
